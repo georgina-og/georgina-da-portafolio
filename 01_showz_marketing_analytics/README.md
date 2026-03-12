@@ -21,6 +21,3 @@ Python · Pandas · NumPy · Seaborn · Matplotlib
 ## 🎯 Impacto
 Recomendaciones para redirigir la inversión publicitaria hacia los canales y períodos
 con mayor ROMI, con base en análisis de cohortes y LTV acumulativo.
-
-## 📁 Archivos
-- `showz_analysis.ipynb` — Notebook principal con análisis completo
