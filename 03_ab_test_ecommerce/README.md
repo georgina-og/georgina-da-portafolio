@@ -21,5 +21,3 @@ Python · Pandas · NumPy · Scipy.stats · Matplotlib · Mann-Whitney U
 ## 🎯 Decisión
 Detener la prueba y adoptar la estrategia del Grupo B.
 
-## 📁 Archivos
-- `ab_test_analysis.ipynb` — Análisis completo del experimento
