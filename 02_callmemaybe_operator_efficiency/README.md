@@ -23,5 +23,4 @@ Intervención prioritaria en 273 operadores + detección de fallo sistémico res
 de la tasa de llamadas perdidas del 98.5% en el grupo sin asignación.
 
 ## 📁 Archivos
-- `operator_analysis.ipynb` — Análisis y clasificación de operadores
-- `dashboard/` — Dashboard interactivo exportado de Tableau
+-  https://public.tableau.com/shared/6P5JB8W5Z?:display_count=n&:origin=viz_share_link — Dashboard interactivo exportado de Tableau
